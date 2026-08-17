@@ -1,0 +1,17 @@
+# Title: Dragon
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/97augsep.html
+
+            .==.        .==.
+           //`^\\      //^`\\
+          // ^ ^\(\__/)/^ ^^\\
+         //^ ^^ ^/6  6\ ^^ ^ \\
+        //^ ^^ ^/( .. )\^ ^ ^ \\
+       // ^^ ^/\| v""v |/\^ ^ ^\\
+      // ^^/\/ /  `~~`  \ \/\^ ^\\
+      \\^ /  _/  /IIII\  \_  \^ //
+       \\/  /(  (IIIIII)  )\  \//
+        ^  /  \  \IIII/  /  \  ^
+    jgs    \  ((((`""`))))  /
+         .--'  /\_______/\  `--.
+        ((((--'           '--))))

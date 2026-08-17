@@ -1,0 +1,15 @@
+# Title: Milk Bottles
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/00august.html
+
+          ____
+         [____]   ____
+          )__(   [____]
+         /    \   )__(
+        | .--. | /    \
+        | '--' || .--. |
+        |      || '--' |
+        |      ||      |
+        |      ||      |
+    jgs '.____.'|      |
+                '.____.'

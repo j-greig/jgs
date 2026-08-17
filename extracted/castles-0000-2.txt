@@ -1,0 +1,26 @@
+# Title: Castles
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/build.html
+
+                 _   |~  _
+                [_]--'--[_]
+                |'|""`""|'|
+                | | /^\ | |
+          jgs   |_|_|I|_|_|
+
+
+                       T~~
+                       |
+                      /"\
+              T~~     |'| T~~
+          T~~ |    T~ WWWW|
+          |  /"\   |  |  |/\T~~
+         /"\ WWW  /"\ |' |WW|
+        WWWWW/\| /   \|'/\|/"\
+        |   /__\/]WWW[\/__\WWWW
+        |"  WWWW'|I_I|'WWWW'  |
+        |   |' |/  -  \|' |'  |
+        |'  |  |LI=H=LI|' |   |
+        |   |' | |[_]| |  |'  |
+    jgs |   |  |_|###|_|  |   |
+        '---'--'-/___\-'--'---'

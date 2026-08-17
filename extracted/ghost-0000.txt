@@ -1,0 +1,25 @@
+# Title: Ghost
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/haloween.html
+
+        ###, ,##, ,##,
+        #  # #  # #  #
+        ###  #  # #  #
+        #  # #  # #  #
+        ###' '##' '##'
+             .--,
+            /  (
+           /    \
+          /      \ 
+         /  0  0  \
+ ((()   |    ()    |   ()))
+ \  ()  (  .____.  )  ()  /
+  |` \_/ \  `""`  / \_/ `|
+  |       `.'--'.`       |
+   \        `""`        /
+    \                  /
+     `.              .'    ,
+ jgs  |`             |  _.'|
+      |              `-'  /
+      \                 .'
+       `.____________.-'

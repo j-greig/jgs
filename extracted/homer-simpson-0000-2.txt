@@ -1,0 +1,17 @@
+# Title: Homer Simpson
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/crtoon2.html
+
+-=[ Homer Simpson ]=-  12/98
+
+           &
+        .-"`"-.
+       /       \
+       |   __  _|
+       |  /  \/ \
+      WW  \_o/_o/
+      (        _)
+       |   .----\
+       ;  | '----'
+        \__'--;`
+  jgs   |___/\|

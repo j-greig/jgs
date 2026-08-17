@@ -1,0 +1,16 @@
+# Title: Fish
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/aquatic.html
+
+                   ,__
+                   |  `'.
+__           |`-._/_.:---`-.._
+\='.       _/..--'`__         `'-._
+ \- '-.--"`      ===        /   o  `',
+  )= (                 .--_ |       _.'
+ /_=.'-._             {=_-_ |   .--`-.
+/_.'    `\`'-._        '-=   \    _.'
+    jgs  )  _.-'`'-..       _..-'`
+        /_.'        `/";';`|
+                     \` .'/
+                      '--'

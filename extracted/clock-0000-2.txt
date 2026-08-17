@@ -1,0 +1,12 @@
+# Title: Clock
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/electro.html
+
+      _...._
+    .'  12  '.
+   /          \
+  |9    .     3|
+   \     `\   /
+   /'._  6 _.'\
+  /    ````    \
+ /_jgs__________\

@@ -1,0 +1,7 @@
+# Title: Tiny Ladybug
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/insects.html
+
+      .W.
+     (o|o)
+  jgs `'`

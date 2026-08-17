@@ -1,0 +1,14 @@
+# Title: Puffin
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/birds.html
+
+         .-"-.
+        /  ,~a\_
+        \  \__))>
+        ,) ." \
+       /  (    \
+      /   )    ;
+ jgs /   /     /
+   ,/_."`  _.-`
+    /_/`"\\___
+         `~~~`

@@ -1,0 +1,18 @@
+# Title: Owl
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/birds.html
+
+           /\ .-"""-. /\
+           \ `"`'v'`"` /
+           { .=.   .=. }
+           {( O ) ( O )}
+           .\'=' V '='/.
+          /.'`-'-'-'-`'.\
+         |/   ^  ~  ^   \|
+         \|    ^   ^    |/
+          \\           //
+           \\ _     _ //
+       -----'(|)---(|)'-----
+       -jgs--,-------,----- 
+            / .' : '. \
+           '-'._.-._.'-'

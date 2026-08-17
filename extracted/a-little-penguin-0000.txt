@@ -1,0 +1,15 @@
+# Title: A Little Penguin
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/birds.html
+
+~ a little penguin ~  9/96
+
+             .-.
+            (e e)
+           _.`V'._
+          //~~W~~\\
+         //,     ,\\
+        // |     | \\
+        \) |     | (/
+           \     /
+        jgs `w-w'

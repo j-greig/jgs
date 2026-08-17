@@ -1,0 +1,15 @@
+# Title: Chick
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/easter.html
+
+              .=""=.
+             / _  _ \
+            |  d  b  |
+            \   /\   /
+           ,/'-=\/=-'\,
+          / /        \ \
+         | /          \ |
+         \/ \        / \/
+             '.    .'
+     jgs     _|`~~`|_
+             /|\  /|\

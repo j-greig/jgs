@@ -1,0 +1,22 @@
+# Title: Rolls Royce Logo
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+-=[ Rolls Royce logo ]=-  8/00
+      ________________
+     |  _  _      _  |
+     | |_)/ \| | (_  |
+     | | \\_/|_|_ _) |
+     |---------------|
+     |    _____      |
+     |   |  ___\     |
+     |   | |   |\    |
+     |   |_|_.'  |   |
+     |   | |__\.'    |
+     |   | |   |\    |
+     |     |     |   |
+     |_______________|
+     | _  _     _  _ |
+     ||_)/ \\ //  |_ |
+     || \\_/ | \_ |_ |
+ jgs '---------------'

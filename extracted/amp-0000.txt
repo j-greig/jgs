@@ -1,0 +1,21 @@
+# Title: |+=_- *&Amp;^%$#@!
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/articles.html
+
+> ASCII-art (uttalas asski) är en förkortning av American Standard Code
+> for Information Interchange. Med andra ord är det bilder som skapas av
+> tecken (siffror, bokstäver, snedstreck, parenteser...) från ett
+> tangentbord. Totalt använder man omkring 97 tecken, det vill säga i
+> stort sett alla som finns. Ett riktigt petjobb som tar tid och kräver
+> stort tålamod men som blir riktigt vackert när det är klart. 
+ASCII art (pronounced asski [that makes sense in Swedish]) is short
+for American Standard Code for Information Interchange. In other words
+it is pictures created of characters (digits, letters, slashes [?],
+parentheses...) from a keyboard. Totally one uses about 97 characters,
+that is practially all that exist. A really picky job that takes time
+and demands great patience but which becomes really beautiful when
+it is done.
+<U>Joan's comment</U>:{Actually there are only 94 characters to choose from
+to create an ASCII picture... 
+AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz
+1234567890 <>{}[]()\/ ;:,.?!"'`~|+=_- *&^%$#@!~  }

@@ -1,0 +1,15 @@
+# Title: Lighter
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/cloth.html
+
+        _
+       | |  )
+       | |  .(
+       ) |_(,')
+       |o______|
+       |   Z   |
+       | ||I   |
+       | ||P   |
+       | ||P   |
+   jgs | ||O   |
+       '-------'

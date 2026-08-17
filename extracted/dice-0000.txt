@@ -1,0 +1,20 @@
+# Title: Dice
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/97augsep.html
+
+        .-------.    ______
+       /   o   /|   /\     \
+      /_______/o|  /o \  o  \
+      | o     | | /   o\_____\
+      |   o   |o/ \o   /o    /
+      |     o |/   \ o/  o  /
+ jgs  '-------'     \/____o/
+
+                    ______
+        .-------.  /\     \
+       /   o   /| /o \  o  \
+      /_______/o|/   o\_____\
+      | o     | |\o   /o    /
+      |   o   |o/ \ o/  o  /
+ jgs  |     o |/   \/____o/
+      '-------'

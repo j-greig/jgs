@@ -1,0 +1,15 @@
+# Title: A Light Bulb
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/electro.html
+
+~ a light bulb ~ 9/96      
+      _____  
+    .'     `.
+   /         \
+  |           | 
+  '.  +^^^+  .'
+    `. \./ .'
+      |_|_|  
+      (___)    
+ jgs  (___)
+      `---'

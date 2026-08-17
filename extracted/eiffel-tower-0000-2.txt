@@ -1,0 +1,19 @@
+# Title: Eiffel Tower
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/build.html
+
+-=[ Eiffel tower ]=-  1/98
+            .
+           .|.
+           |||
+           |||
+           |||
+           |||
+           j_I
+          .)_(.
+          |===|
+          /___\
+         //___\\
+        /=======\
+       / .-"""-. \
+jgs   |__|     |__|

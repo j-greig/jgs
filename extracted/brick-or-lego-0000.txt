@@ -1,0 +1,11 @@
+# Title: Brick Or Lego
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/99julyaug.html
+
+-=[ brick or Lego ]=-  7/99
+
+        .=========.
+       / (_)  (_) /| 
+      /-========-/ |
+      |          |/
+      '-========-'

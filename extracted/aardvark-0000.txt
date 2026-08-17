@@ -1,0 +1,16 @@
+# Title: Aardvark
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/00oct.html
+
+         ,__    _,            ___
+          '.`\ /`|     _.-"```   `'.
+            ; |  /   .'             `} 
+            _\|\/_.-'                 }
+        _.-"a                 {        }
+     .-`  __    /._          {         }\
+     '--"`  `""`   `\   ;    {         } \
+                    |   } __ _\       }\  \
+                    |  /;`   / :.   }`  \  \
+                    | | | .-' /  / /     '. '._
+           jgs    .'__/-' ````.-'.'        '-._'-._
+                  ```        ````              `"""`

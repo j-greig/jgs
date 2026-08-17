@@ -1,0 +1,13 @@
+# Title: Batman Logo
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+          _..--""````""--.._
+        .'       |\/|       '.
+       /    /`._ |  | _.'\    \
+      ;    /              \    ;
+      |   /                \   |
+      ;  / .-.          .-. \  ;
+       \ |/   \.-.  .-./   \| /
+        '._       \/       _.'
+    jgs    ''--..____..--''

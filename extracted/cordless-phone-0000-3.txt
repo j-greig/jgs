@@ -1,0 +1,27 @@
+# Title: Cordless Phone
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/electro.html
+
+              /\
+              ||
+              ||
+              ||
+              ||
+              ||
+       _______||
+     /`       `\
+    |  .-"""-.  |
+    | / .:::. \ |
+    | \ ':::' / |
+    |  '-----'  |
+    | .-"""""-. |
+    | |_______| |
+    | [_][_][_] |
+    | [_] [] [] |
+    | [1][2][3] |
+    | [4][5][6] |
+    | [7][8][9] |
+    | [*][0][#] |
+    |    ...    |
+ jgs\   ':::'   /
+     `"""""""""`

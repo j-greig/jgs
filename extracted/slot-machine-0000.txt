@@ -1,0 +1,20 @@
+# Title: Slot Machine
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/97augsep.html
+
+          .-------.
+       oO{-JACKPOT-}Oo
+       .=============. __
+       | [a] [X] [o] |(  )
+       | [$] [$] [$] | ||
+       | [X] [o] [$] | ||
+       |             |_||
+       | xxx ::::::: |--'
+       | ooo ::::::: |
+       | $$$ ::::::: |
+       |             |
+       |      __ === |
+       |_____/__\____|
+      /###############\
+     /#################\
+    |#JGS###############|

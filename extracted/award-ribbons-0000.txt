@@ -1,0 +1,36 @@
+# Title: Award Ribbons
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/99feb.html
+
+            ___
+          .'__ '.
+         / /_ |ST\
+         |  | |  |
+         \ <___> /
+          ;.___.;
+          |::|;;|
+          |::/;;|
+          |:/`\;|
+     jgs  |/   \|
+
+            ___
+          .'__ '.
+         / /  )ND\
+         | `//_  |
+         \ <___> /
+          ;.___.;
+          |::|;;|
+          |::/;;|
+          |:/`\;|
+     jgs  |/   \|
+
+            ___
+          .'__ '.
+         / /_ )RD\
+         | _<<   |
+         \ \__)  /
+          ;.___.;
+          |::|;;|
+          |::/;;|
+          |:/`\;|
+     jgs  |/   \|

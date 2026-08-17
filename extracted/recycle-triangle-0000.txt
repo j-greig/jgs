@@ -1,0 +1,26 @@
+# Title: Recycle Triangle
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+-=[ Recycle Triangle ]=-  5/97
+           .-"-.
+          / .-. \
+        .'\/   \ \
+      ,'   \    \ \
+       / /-'     \ \ .
+      / /        ,\ '|
+     / /         '-._|
+    / (_.'|_________) \
+    \__<  ____________/
+  jgs   '.|
+
+           ____
+          / _\ \
+        .'\/  \ \
+      ,'   \   \ \
+       / /-'    \ \ .
+      / /       ,\ '|
+     / /        '-._|
+    / /_.'|________\_\
+    \/_<  ___________/
+  jgs   '.|

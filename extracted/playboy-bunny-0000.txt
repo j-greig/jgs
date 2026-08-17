@@ -1,0 +1,25 @@
+# Title: Playboy Bunny
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/97may.html
+
+-=[ Playboy Bunny ]=-  4/97
+                  O O
+                 dO Ob
+                dOO OOO
+               dOOO OOOb
+              dOOOO OOOOb
+              OOOOO OOOOO
+              OOOOO OOOOO
+              OOOOO OOOOO
+              YOOOO OOOOO
+               YOOO OOOP
+          oOOOOOOOOOOOOb
+        oOOOOOOOOOOOOOOOb
+       oOOOb dOOOOOOOOOOO
+      OOOOOOOOOOOOOOOOOOO
+      OOOOOOOOOOOOOOOOOOP
+      OOOOOOOOOOOOOOOOOP
+       YOOOOOOOOOOOOOOP
+         YOOOOOOOOOOOP
+        %%%%%%%%%%%%%%
+       %%%%%%OOOjgsOOO

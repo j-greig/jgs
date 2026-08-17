@@ -1,0 +1,68 @@
+# Title: Smiley Faces
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/bodypart.html
+
+          .-""""""-.  
+        .'          '. 
+       /   O      O   \ 
+      :                :
+      |                |  goofy
+      : ',          ,' :
+       \  '-.____.-'  / 
+        '.     U    .'
+     jgs  '-......-'
+          .-""""""-.
+        .'          '.
+       /   O      O   \
+      :                :
+      |                |   happy
+      : ',          ,' :
+       \  '-......-'  /
+        '.          .'
+     jgs  '-......-'
+          .-""""""-.
+        .'          '.
+       /   O      O   \
+      :           `    :
+      |                |   sad
+      :    .------.    :
+       \  '        '  /
+        '.          .'
+     jgs  '-......-'
+          .-""""""-.
+        .'          '.
+       /   O    -=-   \
+      :                :
+      |                |  winking
+      : ',          ,' :
+       \  '-......-'  /
+        '.          .'
+     jgs  '-......-'
+          .-""""""-.
+        .'  \\  //  '.
+       /   O      O   \
+      :                :
+      |                |  angry
+      :       __       :
+       \  .-"`  `"-.  /
+        '.          .'
+     jgs  '-......-'
+          .-""""""-.
+        .(((      ))).
+       /  (O)    (O)  \
+      :                :
+      | @            @ |  girl smiley
+      :    _.-..-._    :
+       \    '-..-'    /
+        '.          .'
+     jgs  '-......-'
+
+          .oOOOOOOo.
+        oO'        'Oo
+       O'  O      O  'O
+      O                O
+      O                O
+      O  Oo,      ,oO  O
+       O. 'OOOOOOOO' .O
+        Yb.        .dP
+     jgs  'YOOOOOOP'

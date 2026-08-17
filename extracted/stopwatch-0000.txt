@@ -1,0 +1,16 @@
+# Title: Stopwatch
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/00march.html
+
+              .--.
+         .-._;.--.;_.-.
+        (_.'_..--.._'._)
+         /.' . 60 . '.\
+        // .      / . \\
+       |; .      /   . |;
+       ||45    ()    15||
+       |; .          . |;
+        \\ .        . //
+         \'._' 30 '_.'/
+     jgs  '-._'--'_.-'
+              `""` 

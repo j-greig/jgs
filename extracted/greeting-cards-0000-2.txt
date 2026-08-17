@@ -1,0 +1,26 @@
+# Title: Greeting Cards
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/computer.html
+
+-=[ Greeting Cards ]=-  4/97
+                          _.-'|
+                      _.-'    |
+                  _.-'        |
+               .-'____________|______
+               |                     |
+               |  Your computer      |
+               |      is dead...     |
+               | and it was so alive |
+               |      _______        |
+               |     |.-----.|       |
+               |     ||x . x||       |
+               |     ||_.-._||       |
+               |     `--)-(--`       |
+               |    __[=== o]___     |
+               |   |:::::::::::|\    |
+           jgs |   `-=========-`()   |
+               | You shouldn't have  |
+               |     installed:      |
+               |                     |
+               |    -= Win'95 =-     |
+               `---------------------`

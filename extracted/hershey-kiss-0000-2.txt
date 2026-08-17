@@ -1,0 +1,16 @@
+# Title: Hershey Kiss
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/food.html
+
+-=[ Hershey kiss ]=-  11/98
+
+               __
+             .'  '.
+            /   .-.\ __
+           /   (   `\ K`-.
+          /     '-.  `-._I`-.
+         /         `'.   '-.S`'.
+       .'             \     `\S |
+     /`                |      '-'
+     \                /
+      `--------------'

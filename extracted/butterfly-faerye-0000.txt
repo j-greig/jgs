@@ -1,0 +1,25 @@
+# Title: Butterfly Faerye
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/97dec.html
+
+compiled by: kwonn@ew.mimos.my
+       _                           _
+      / `._        \+O+/        _.' \
+     ( @ : `.      //`\\      .' : @ )
+      \  `.  `.   ((a a))   .'  .'  /
+       \;' `.  `.((( - ))).'  .' `;/
+        \`.  `.  ((()=()))  .'  .'/
+         ) :-._`/`(("Y"))`\'_.-: (
+         (`..../ /(_ * _)\ \....')
+          >---/ /  )   (  \ \---<
+         / .'.\ \_/\\_//\_/ /.'. \
+         |o _.-\/_) '*' (_\/-._ o|
+         |`'   ;/         \;   `'|
+         ".o_.-/           \-._o."
+           "._/             \_."
+             /               \
+            /                 \
+           /                   \
+ jgs/mk   /                     \
+         /                       \
+         `----....._____.....----'

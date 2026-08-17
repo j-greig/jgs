@@ -1,0 +1,14 @@
+# Title: Bubble Gum Machine
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/food.html
+
+         ___
+      .-Ooo0O-.
+     /.o0O0o0O0\
+    |:o0O0ooO0o0|
+    |:ooOo0o0oOo|
+     \.oOoo0o0O/
+      /`'O0o''\
+jgs  /   (_)   \
+    (`-.,___,.-')
+     `-.,___,.-'

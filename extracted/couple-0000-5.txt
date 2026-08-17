@@ -1,0 +1,21 @@
+# Title: Couple
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/couples.html
+
+        .---.
+       /_/ \_\  ,;;;,
+       (  '>') (((( ))
+        \  -/  ('<' )))
+         )-(_   \=  (((
+        / `-\'--.)_()))
+        | \ |--./--' \
+        |\ \;_ /\\_ / |
+        |_\___|_/) / /
+        /   |   / /_/\
+        \  ||   | ((( |
+        |  ||   |     |
+        |  ||   |     |
+        |  ||   |_____|
+        |  ||    || |
+    jgs |__||_   ||_|
+        (___)_) ((_/Y

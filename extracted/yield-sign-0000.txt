@@ -1,0 +1,15 @@
+# Title: Yield Sign
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+-=[ Yield sign ]=-  5/97
+   _________________
+  /  _____________  \
+  \ (             ) /
+   \ \           / /
+    \ \  YIELD  / /
+     \ \       / /
+      \ \     / /
+       \ \   / /
+        \ '-' /
+   jgs   '-.-'

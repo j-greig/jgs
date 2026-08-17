@@ -1,0 +1,14 @@
+# Title: Alarm Clock
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98august.html
+
+           .-.-.
+      ((  (__I__)  ))
+        .'_....._'.
+       / / .12 . \ \
+      | | '  |  ' | |
+      | | 9  /  3 | |
+       \ \ '.6.' / /
+        '.`-...-'.'
+    jgs  /'-- --'\
+        `"""""""""`

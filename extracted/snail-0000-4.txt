@@ -1,0 +1,16 @@
+# Title: Snail
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/insects.html
+
+                             _____
+              __         .-'`     ``'-.
+             /o \_     .'              '.
+         _.-'\__/ `\  /      _..---._    \
+       .'           \/    .-'  __    '.   \
+      /       ,_    |    /    (_,`\    |  |
+      \       /     |:.  \        /    /  /
+       '----'`--'\  \:.   '-....-'   .' _/
+                  \ /`-..___     _.-' -` \.__
+                   |::.     `````        /   `)
+              jgs   `-::___         __.-'``''`
+                           `````````

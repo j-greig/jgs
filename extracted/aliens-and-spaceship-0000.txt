@@ -1,0 +1,14 @@
+# Title: Aliens And Spaceship
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/00oct.html
+
+                        .   .      .   .     .   .
+           .-"""-.       \_/        \_/       \_/
+          /       \      / \        / \       ) (
+       .--'._____.'--.   \"/        \"/       \"/
+      ( o     _     o )  /|\__,   __/|\       /|\
+       '-..o_|_|_o..-'   \|      `   | \     / | \
+   jgs   /        \      `|\         |\ `   ` /|  `
+       ()          ()     | \        / |   __/ |
+                          | /       /  |  `    |
+                          ` `      `   `       `

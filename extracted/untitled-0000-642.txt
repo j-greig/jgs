@@ -1,0 +1,25 @@
+# Title: ^
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/cnvsprog.html
+
+<U>The Draw Fonts
+</U>ftp://archie.au/pc/coast/msdos/screen/ansiltr2.zip
+ftp://ftp.tu-chemnitz.de/pub/simtel/msdos/screen/ansiltr2.zip
+ftp://ftp.web.ad.jp/pub/mirrors/Coast/msdos/screen/ansiltr2.zip
+ftp://ftp.nic.surfnet.nl/mirror-archive/software/simtel-msdos/screen/ansiltr2.zip
+ftp://ftp.sunet.se/pub/pc/mirror/Coast/msdos/screen/ansiltr2.zip
+ftp://ftp.agt.net/pub/Simtel/msdos/screen/ansiltr2.zip 
+http://www.geocities.com/Paris/5997/tdrawfnt.zip
+(Feb 6 1997)
+
+Take care, Jon Melusky
+ 
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^
+     _   _ __   __                       Wagner Codes:
+   _| \_) |_ (_/ _|                      a+--f--e--d-b++g+w+v
+  (_   _   _) _ (_    Puzzle
+    |_( )_|__( >__|   By Jon and Randy R.
+    |_   _|       |_  <http://www.geocities.com/SoHo/7889> Ascii
+     _) |_         _( mailto:whatfer@u.washington.edu
+    /_   _|_  ___ |   Windows 95, Micron 133mhz, Seattle USA
+      (_<   (_)  ^  ~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~

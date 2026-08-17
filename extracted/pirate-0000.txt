@@ -1,0 +1,17 @@
+# Title: Pirate
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/00oct.html
+
+                                ___
+                              .'   '.
+                             /       \
+                            |_________|
+                     .--.__///`'-,__~\\\\
+                    / /6|__\// a (__)-\\\\
+                    \ \/--`((   ._\   ,)))
+                    /  \\  ))\  -==-  (O)(
+                   /    )\((((\   .  /)))))
+                  /  _.' /  __(`~~~~`)__
+                 //"\\,-'-"`   `~~~~\\~~`"-.
+                //  /`"              `      `\
+               //  jgs

@@ -1,0 +1,12 @@
+# Title: Bird (Robin?)
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/birds.html
+
+                      .--.
+                    ."  o \__
+                 _.-"    ,(  `
+             _.-"      ,;;|
+        _.-=" _,"    ,,;;;'
+    .-"`_.-"``-..,,;;;;:'
+    `"'`          `\`\
+        jgs        /^\\\

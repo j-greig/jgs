@@ -1,0 +1,22 @@
+# Title: Smiley Faces
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/bodypart.html
+
+        _.-'''''-._
+      .'  _     _  '.
+     /   (_)   (_)   \
+    |  ,           ,  |
+    |  \`.       .`/  |
+     \  '.`'""'"`.'  /
+      '.  `'---'`  .'
+  jgs   '-._____.-'
+
+
+        _.-'''''-._
+      .'  _     _  '.
+     /   (o)   (o)   \
+    |                 |
+    |  \           /  |
+     \  '.       .'  /
+      '.  `'---'`  .'
+  jgs   '-._____.-'

@@ -1,0 +1,169 @@
+# Title: View In Fixed-Width Font Such As Courier, Monoco, Or Fixedsys&Nbsp;
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/jgsarticle1.html
+
+          Y O U    A S C I I ' D   F O R    I T !     by Joan Stark
+                                                      Dec. 30th, 1998
+
+
+   -=[ view in fixed-width font such as Courier, Monoco, or FixedSys  ]=-
+
+     ___
+    /   \
+   |  _  |
+   |     |
+   |__|__|ll great stories begin with "Once Upon a Time..."  and so,
+   once upon a time, the Internet was used by only the military powers
+   of the world.  It was designed to be a way to communicate if all
+   other methods failed.  People were stationed at computers throughout
+   the world.  They were instructed to send messages to other computer
+   stations every hour to ensure that the system was operating.  This
+   was also a way to make sure that the computer operators remained awake!
+
+             _
+         0  (_|       To help pass the time, these computer operators
+       |(_~|^~~|      would create pictures while sitting at their
+       TT/_ T"T       keyboards.  Their palette was limited to the
+  ^^^^^^^^^^^^^^^^^^^ characters found on their computers. These text-
+  based pictures were often their message to other computer stations.
+  This was the start of what is now known as "ASCII art".
+
+
+  ASCII is an acronym for the "American Standard Code of Information
+  Interchange."  This is the 7-bit code system which enables computers
+  to exchange information.  Without going into technological details,
+  ASCII characters are those which are found on a typical U.S. keyboard.
+  This includes numbers, basic punctuation marks, all uppercase and
+  lowercase letters, and the space bar.  Other "fancy" characters such
+  as the English Sterling pound symbol, the cedilla, dieresis, or any
+  accented letters are not part of the standard ASCII code and are not
+  used in true ASCII art.
+
+          .:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:.
+         (   A   a   B   b   C   c   D   d   E   )
+          )  e   F   f   G   g   H   h   I   i  (
+         (   J   j   K   k   L   l   M   m   N   )
+          )  n   O   o   P   p   Q   q   R   r  (
+         (   S   s   T   t   U   u   V   v   W   )        the list of
+          )  w   X   x   Y   y   Z   z   1   2  (  <-- ASCII characters
+         (   3   4   5   6   7   8   9   0   ~   )
+          )  !   @   #   $   %   ^   &   *   +  (
+         (   ,   .   <   >   (   )   `   '   "   )
+          )  ?   /   ;   :   }   {   [   ]   =  (
+         (           |   \   -   _   space       )
+          *:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*
+
+
+  ASCII art was important when universities and medical institutions
+  joined the government on the Internet.  The early Internet was
+  primarily text based. Graphic files such as JPGs and GIFs were not
+  universal from system to system.  The best way for people to share
+  pictures/graphs on the Internet was through the text-based ASCII art.
+
+
+      .-------.      Text art is really not new.  Before the emergence
+     _|~~ ~~  |_     of the Internet, people used text as an art medium
+   =(_|_______|_)=   in typewriter-art and concrete poetry.  The type-
+     |:::::::::|     writer art and concrete poetry differ from ASCII
+     |:::::::[]|     art because more flexibility is allowed.
+     |o=======.|     Typewriter artists often use a technique called
+     `"""""""""`     over-striking (typing several characters in the
+                     same space).  They also use half-spaces and
+   super/subscript characters.  Typewriter artists may also slant their
+   paper or remove it to type sideways or upside down.  A nice example
+   of typewriter can be found at: 
+        http://www.geocities.com/SoHo/7373/asciibg.gif
+   There are more astounding examples in Alan Riddell's book,
+   _Typewriter Art_, (London, 1975).
+
+
+   Text art has also been created without the use of keyboard or type-
+   writer.  Monasteric monks have artistically modified letters into
+   ornate renderings of people and creatures.   Still other people have
+   used hand-written text characters to create large images.  A Korean
+   named Gwang Hyuk Lee created a stunning picture of Jesus Christ with
+   the entire text of the Bible's "Book of John".  
+        See:  http://www.geocities.com/SoHo/7373/newtest.jpg
+   Unfortunately he was killed because of his religious beliefs.
+
+   In a world of technological advances, it is
+   hard to believe that ASCII/text art is           .--.       .--.
+   still being created and used.  Many          _  `    \     /    `  _
+   e-mail programs support graphics files as     `\.===. \.^./ .===./`
+   attachments, but not all.  People are                \/`"`\/
+   squirmish about downloading unknown files--       ,  |     |  ,
+   especially if they have ever experienced         / `\|`-.-'|/` \
+   a computer virus.  Yet people like to see       /    |  \  |    \
+   images.  Images are often essential in       .-' ,-'`|   ; |`'-, '-.
+   getting an idea across and they certainly        |   |    \|   | 
+   spice-up dull text.                              |   |    ;|   |
+                                                    |   \    //   |
+   To date, ASCII art is still used.   To view      |    `._//'   |
+   ASCII art properly, one must use a fixed-       .'             `.
+   width font such as Courier, Monoco, or       _,'             jgs `,_
+   FixedSys.  These fonts are the "typewriter-  `                     `
+   type fonts where each letter is the same width.  
+   Popular proportional fonts such as Arial or Times New Roman will skew
+   the ASCII art.  ALL computer systems have options for the fixed-width
+   font so that ASCII art can be viewed by all.  (ASCII art also prints
+   out very nicely.)
+
+   ASCII art has a variety of uses...  It is used in e-mail for charts,
+   graphs, greetings, and signatures.  A small picture in your
+   signature area will help people remember you in this faceless
+   cyberspace world.  ASCII art is also used in e-zines for titles and
+   headers, to delineate sections, and as e-zine logo.  ASCII art is
+   used on BBSs (Bulletin Board Systems) and MUD/MUGs (Multi-User
+   Dungeons/Games) where graphics are not possible.  In addition, ASCII
+   art is used on mIRC (Internet Relay Chat).  There are several mIRC
+   channels that focus on colorized ASCII art and scrolled "shows".
+   Two of the popular mIRC channels are:  #mIRC_rainbow and #mIRC_Colors.
+
+        /--/|   ASCII art has also been recommended for use in webpage
+       /  / |   development.  (See _Building Better Webpages_ by
+      /__/  |   Rebecca Rohan; 1998)  Not all people turn on graphics
+      |==|  |   when surfing the Internet.  In fact, many people turn
+      |  |  |   off their graphics so as to speed up loading time.
+      |  |  |   ASCII art will load because it is text-- and it loads
+      |  |  |   quickly.  There are organizations--namely universities
+      |  | /    and libraries-- who use Lynx as their web browser.
+      |==|/     Lynx is a pure text browser-- graphics are not read at
+      `""`      all. However ASCII art can be seen on Lynx because it is
+                pure text. 
+
+   There are also many "fun" attributes of ASCII art.  Most people are
+   amazed at the complexity and creativity of the text images.   They
+   enjoy looking at and saving the pictures.  Some people print the
+   images and use them for coloring pages.  ASCII art can be useful and
+   enjoyed for its aesthetic value.
+
+        /\
+        ||    Despite these great benefits of ASCII art, there is a
+        ||    faction that would like to eliminate the text pictures
+        ||                   because they are too simple.  Instead,
+        ||           {}      the push has been that all e-mail will
+        ||          .--.     become html-based.  Graphic files such as
+        ||         /.--.\    JPGs and GIFs will become commonplace in
+        ||         |====|    e-mail.  And ultimately every browser will
+        ||         |`::`|              support these graphic files.
+       _||_    .-;`\..../`;_.-^-._
+        /\\   /  |...::..|`   :   `|   Perhaps this will be true some-
+        |:'\ |   /'''::''|   .:.   |   day in the future.  Even so, I
+         \ /\;-,/\   ::  |..ASCII..|   believe that there will still be
+          \ <` >  >._::_.| ':ART:' |   room for ASCII art in cyberspace.
+           `""`  /   ^^  |   ':'   |   There is no reason for this low
+                 |       \    :    /   bandwidth art form to die.  As
+                 |        \   :   /    long as text remains, so will
+                 |___/\___|`-.:.-`     ASCII art.
+                  \_ || _/    `
+                  <_ >< _>             If you have never seen ASCII art
+                  |  ||  |             before,  I invite you to visit
+                  |  ||  |             the flourishing world of ASCII
+                 _\.:||:./_            art.  You'll find that there is
+           jgs  /____/\____\           more to it than smileys and
+                                       emoticons.  :)  I think you will
+                                       be impressed.
+
+     "jgs":    http://www.ascii-art.com
+     USENET:   news:alt.ascii-art
+     LINKS:    http://www.geocities.com/SoHo/2695/links.htm

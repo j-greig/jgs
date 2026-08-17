@@ -1,0 +1,12 @@
+# Title: Steamboat Willie
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/97augsep.html
+
+-=[ Steamboat Willie ]=-  7/97
+      __       __
+     /  `\ _ /`  \
+     \_   ` `   _/
+       /'^'.'^'\ 
+       | O   O |
+       \   o   /
+  jgs   '._-_.'

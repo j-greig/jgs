@@ -1,0 +1,15 @@
+# Title: Geocities Logo
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+-=[ GeoCities Logo ]=-
+           _____
+          / ____\
+         / /  ___   G E O C I T I E S . . .
+        (_(  [_  |
+        |#|\___/ /      YOUR HOME ON THE WEB
+        |#|_____/  
+ jgs    |#|.-.      _
+     _   ~ |&|     |#|
+    |%|     ~      '-'
+     ~

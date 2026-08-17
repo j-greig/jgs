@@ -1,0 +1,15 @@
+# Title: Bird
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98august.html
+
+                         .--.
+                        /   o\_
+                        \   ___\
+      __________________/   \_________________
+      \_______         /     \        _______/
+         \________     |     |     ________/
+             \_______  \     / ________/
+                 \_____/\   /\_____/
+                        /A A\
+                  jgs  /     \
+                       `"==="`

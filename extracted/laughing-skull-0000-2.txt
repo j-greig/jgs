@@ -1,0 +1,22 @@
+# Title: Laughing Skull
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/bodypart.html
+
+               _________
+            .-'         '-.
+          .'               '.
+         /                   \
+        /                     \
+        |                     |
+        |     .-.     .-.     |
+        | ;  /   |   |   \  ; |
+        ; |  \__/     \__/  | ;
+        _\|       /^\       |/_
+       /         /   \         \
+       \____     "`^`"     ____/
+           |`\___________/`|
+           |  )\_|_|_|_/(  |
+      jgs  |  \   ___   /  |
+           \   '.|_|_|.'   /
+            '.           .'
+              `"""""""""`

@@ -1,0 +1,14 @@
+# Title: Typewriter
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/00oct.html
+
+           .-----------.
+    ___    |           |
+   /_._`.__|           |_
+       `(|_|_m_______m_|_|)
+         |_______________|
+         /o o o o o o o o\
+        /o o o o o o o o o\
+       ;[]o o o o o o o o[];
+   jgs |  -============-   |
+        '------------------'

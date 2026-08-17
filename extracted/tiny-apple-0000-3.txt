@@ -1,0 +1,11 @@
+# Title: Tiny Apple
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/food.html
+
+         __
+         \_}
+        .-./--.
+       /# ^^   \
+       |       |
+        \     /
+    jgs  `"`"`

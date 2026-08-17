@@ -1,0 +1,16 @@
+# Title: Pizza
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/food.html
+
+           _....._
+       _.:`.--|--.`:._
+     .: .'\o  | o /'. '.
+    // '.  \ o|  /  o '.\
+   //'._o'. \ |o/ o_.-'o\\
+   || o '-.'.\|/.-' o   ||
+   ||--o--o-->|<o-----o-||
+   \\  o _.-'/|\'-._o  o//
+    \\.-'  o/ |o\ o '-.//
+     '.'.o / o|  \ o.'.'
+       `-:/.__|__o\:-'
+          `"--=--"`

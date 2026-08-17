@@ -1,0 +1,11 @@
+# Title: Donut
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98sepoct.html
+
+        _.-------._
+      .'    ___    '.
+     /     (___)     \
+     |'._         _.'|
+     |   `'-----'`   |
+      \             /
+   jgs '-.______..-'

@@ -1,0 +1,15 @@
+# Title: No Smoking Sign
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+          _..----.._
+       _-'_..----.._'-_
+     .'.  \       ( `'.'.
+    / / `\ `\       )  \ \
+   | |   _`\ `\____(    | |
+   | |  [__]_\ `\__()   | |
+   | |        `\ `\     | |
+    \ \         `\ `\  / /
+     '.'-._       `\ `'.'
+   jgs `-._`'----'`_.-'
+           `"----"`

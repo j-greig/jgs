@@ -1,0 +1,14 @@
+# Title: Suitcase
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/cloth.html
+
+                  _____
+                 /.---.\
+         ________||___||________
+        /--"""-------------"""--\
+        |                       |
+        |                       |
+        |                       |
+        |                    __ |
+        |                   [__]|
+  jgs   \_______________________/

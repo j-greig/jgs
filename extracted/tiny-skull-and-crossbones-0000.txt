@@ -1,0 +1,8 @@
+# Title: Tiny Skull And Crossbones
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/bodypart.html
+
+            .-.
+           (0.0)
+         '=.|m|.='
+ jgs     .='`"``=.

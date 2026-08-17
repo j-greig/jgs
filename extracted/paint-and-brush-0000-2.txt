@@ -1,0 +1,15 @@
+# Title: Paint And Brush
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/cloth.html
+
+           ___
+       ,--[___]--,
+      /           \
+     |,.--'```'--.,|    ,
+     |'-.,_____,.-'|    ||
+     |'-.,_____,.-'|    ||
+     |             |   _||_
+     |  P A I N T  |  ///\\\
+     |             |  HHHHHH
+     |'-.,_____,.-'|  ||||||
+jgs  `'-.,_____,.-''  ||||||

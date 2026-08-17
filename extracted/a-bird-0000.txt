@@ -1,0 +1,14 @@
+# Title: A Bird
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/birds.html
+
+~ a bird ~  7/96
+                      ___  
+                  _,-' ______
+                .'  .-'  ____7
+               /   /   ___7
+             _|   /  ___7
+           >(')\ | ___7     jgs
+             \\/     \_______
+             '        _======>
+             `'----\\`

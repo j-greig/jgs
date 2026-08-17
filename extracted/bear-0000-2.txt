@@ -1,0 +1,11 @@
+# Title: Bear
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98august.html
+
+        .--. _......._ .--.
+       | ( .'         '. ) |
+        './  0 _   _ 0  \.'
+         |    /  o  \    |
+         \    \ _|_ /    /
+     jgs  '.__ `"""` __.'
+              `"---"`

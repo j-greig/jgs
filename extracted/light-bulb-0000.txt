@@ -1,0 +1,24 @@
+# Title: Light Bulb
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/electro.html
+
+                 ___
+             .-"`   `"-.
+           .'           '.
+          /               \
+         /  #              \
+         | #               |
+         |                 |
+         ;     .-~~~-.     ;
+          ;     )   (     ;
+           \   (     )   /
+            \   \   /   /
+             \   ) (   /
+              |  | |  |
+              |__|_|__|
+              {=======}
+              }======={
+              {=======}
+              }======={
+           jgs{=======}
+               `""u""`

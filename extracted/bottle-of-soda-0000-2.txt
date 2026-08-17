@@ -1,0 +1,14 @@
+# Title: Bottle Of Soda
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/food.html
+
+           .=.
+           } {
+          .' '.
+         /     \
+         ;'---';
+         |PEPSI|
+         | .-. |
+         | '-' |
+         |'---'|
+    jgs  '._._.'

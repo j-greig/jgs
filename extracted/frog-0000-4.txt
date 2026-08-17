@@ -1,0 +1,16 @@
+# Title: Frog
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98jan.html
+
+                 _   _
+                / \ / \
+              _|_0/-\0_|_
+             /     "     \
+             \'-._____.-'/   
+          .--.'._     _.'.--.
+          |   \/       \/   |
+          |   /         \   |
+       ___\  /  /     \  \  /___
+      \__   (   \__ __/   )   __/
+       /__  |\    _/_    /|  __\
+   jgs   |_/ /_/\_\ /_/\_\ \_|

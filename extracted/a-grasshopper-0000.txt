@@ -1,0 +1,10 @@
+# Title: A Grasshopper
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/insects.html
+
+~a grasshopper~   8/96
+
+
+   /\ ,, 
+  /\OOOO()= jgs
+ `    ``

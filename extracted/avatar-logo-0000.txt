@@ -1,0 +1,16 @@
+# Title: Avatar Logo
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+       _____________________________
+    .-'\    |\  \      |   |       |`:.
+   / _  \   | \  \    /|   |       | | \
+  / /_)  \  |  \  \  / |   |       | |  \
+  |     __) '---\  \/  |   |__   __| '---.
+  |    |    .-. |\__  /|   | |   |   .-. |
+  \    |    | | | _/ / |   | |   |   | | /
+   \   |    | | ||  /  |   | |   |   | |/
+    `-.|____|_|_||_/___|___|_|___|___|.'
+
+
+-=[Avatar Logo]=-

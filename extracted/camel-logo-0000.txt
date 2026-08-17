@@ -1,0 +1,13 @@
+# Title: Camel Logo
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+-=[Camel Logo]=-
+-=[Campaigning Against Misuse of the Ennglish Language" logo]=-
+
+   __,  .-.  .-.       C ampaigning
+  (__ _ |  \/  | _     A gainst
+     (_|||\__/||(/_|   M isuse of the
+        ||    ||   |_  E nglish
+ jgs   _||   _||       L anguage
+      `""`  `""`

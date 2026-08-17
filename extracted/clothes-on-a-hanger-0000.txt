@@ -1,0 +1,22 @@
+# Title: Clothes On A Hanger
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/cloth.html
+
+~clothes on a hanger ~
+                  _
+                 ( |  
+                   |
+            __,--./|.--,__
+          .`   \ \ / /    `.
+        .`      \ | /       `.
+       /   /     ^|^      \   \
+      /   / |     |o     | \   \
+     /===/  |     |      |  \===\
+    /___/   |     |o     |   \___\
+            |     |      |
+            |     |o     |
+            |     |      |
+            |     |o     |
+            |     |      |
+            |     |o     |      jgs
+            |_____/\_____|

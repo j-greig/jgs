@@ -1,0 +1,14 @@
+# Title: Pager
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/electro.html
+
+   ________________________________
+  /   ______________________   | \ \
+  |  /.--------------------.\  | | | 
+  |  ||CONGRATULATIONS ON A||  |_| |
+  |  ||SUCCESSFUL PURCHASE!||  | | |
+  |  \'--------------------'|  | | |
+  |   \__<<__|__>>__|______/   |_/ |
+  |                          ____  |
+  |  """""""""""'''''      /'    `\|
+  \_jgs____________________\______//

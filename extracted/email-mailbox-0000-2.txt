@@ -1,0 +1,16 @@
+# Title: Email Mailbox
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/build.html
+
+           ..--""|
+           |     |
+           | .---'
+     (\-.--| |-----------.
+    / \) \ | |            \
+    |:.  | | |             |
+    |:.  | |o| E - M A I L |
+    |:.  | `"`             |
+    |:.  |_  __   __ _  __ /
+    `""""`""""|=`|"""""""`
+              |=_|
+        jgs   |= |

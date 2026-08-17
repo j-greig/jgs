@@ -1,0 +1,19 @@
+# Title: Long-Ear Monkey
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98march.html
+
+(thanks to some tweaking by Andreas Freise!)
+   
+                 ',
+              .-`-,\__
+                ."`   `,
+              .'_.  ._  `;.
+          __ / `      `  `.\ .--.
+         /--,| 0)   0)     )`_.-,)
+        |    ;.-----.__ _-');   /
+         '--./         `.`/  `"`
+            :   '`      |.      
+            | \     /  //         
+             \ '---'  /'        
+              `------' \  
+  jgs/a:f      _/       `--...

@@ -1,0 +1,162 @@
+# Title: *:._.:*
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/bafaq.html
+
+  25  What should I know about posting ASCII Art?
+
+  You can post any of the following types of ASCII art to
+rec.arts.ascii or alt.ascii-art or alt.binaries.pictures.ascii
+groups:
+
+o All forms of ASCII art including:
+  - Standard ASCII art (line pics, 3-D, oversize printer art, GIFs, etc).
+  - Non-standard ASCII art (animations, color pics, color animations).
+o Discussion about pieces of art.
+o Requests for specific pieces of art, and their fulfillment.
+o Questions and answers covering:
+  - Creating and viewing ASCII art.
+  - Locating FTP sites for ASCII art and related files.
+o Dicussion about artists in the field.
+
+  Animations can also be posted to alt.ascii-art.animation.  3-D art
+can also be posted to alt.3d.
+
+
+  To make it easier for everybody, please put one of the following
+Subject IDs at the beginning of the subject line of your post:
+
+     Line - Standard ASCII line art.  Line pictures and large lettering.
+      GIF - Gray scale image.
+Animation - Animation.  Usually uuencoded.
+    Color - ANSI Color image.  Usually uuencoded.
+      3-D - Three dimensional art.
+     Font - Alphabets and Figlet fonts.
+   Binary - Binaries (software like Figlet and Gifscii). Usually uuencoded.
+      Big - Wider than 80 columns and-or longer than 24 lines).
+
+   Repost - Repost of a previously posted pic, not new art.
+  Request - Request for a picture, Figletized name, sig, etc.
+
+     Talk - General discussion, no pics included.
+ Question - A question concerning any of the ASCII art topics.
+   Answer - An answer to a question asked by a poster.
+     Info - Web URLs, email addresses, Gopher and FTP sites, font lists,etc
+ Announce - Announcements of events, new sites, Web pagse, etc.
+
+      FAQ - Used for the weekly posting of Frequently Asked Questions
+
+  If you are following up a post, please change the Subject ID to
+reflect the contents of the post.  This way if you are fulfilling a
+request, change:
+
+  Request: Marilyn Monroe
+    TO
+  GIF: Marilyn Monroe
+
+  This allows readers the option of reading the group in a
+newsreader's selector, sorted by articles.  They can then read only
+what is of interest to them, trusting the IDs to accurately identify
+the contents.  Some people do not have the time (or money if they
+are paying by the hour or byte) to read everything in every group
+they like.
+
+
+  Here are some guidelines:
+
+
+  Posting to the ASCII groups:
+
+o If someone requests a picture only days after it has been posted,
+  and you would like to fill that request, please email the picture
+  to the person requesting it.  It's better than reposting so soon.
+
+o Try to eliminate unnecessary blank space to the left of the pic,
+  and trailing space to the right.  This reduces waste.
+
+o If you're posting a collection of pics, try to keep each pic on
+  its own lines (and separated from other pics by a couple of
+  lines).
+
+o Replace tabs with spaces.  Otherwise tab damage can occur.
+
+
+  When following up an article:
+
+o Read all the articles in a thread before posting.  Most
+  newsreaders will let you re-read news you've already seen.
+
+o Decide whether it's better to post or email your message.
+
+o Check the attributions.
+
+o Try to keep quoted materials to a minimum.
+
+o Summarize where possible.
+
+o Change the Subject ID.
+
+
+  Most general guidelines for posting apply here too:
+
+o Try to stay on topic (ASCII art).  It's easy to get sidetracked
+  into other things, especially when a cross-posted thread gets
+  going.
+
+o If you disagree with someone, disagree with their words, don't
+flame them.
+
+o Ask permission before quoting somebody's email message.
+
+o Type your post in upper-and-lower case.  ALL UPPER CASE IS HARD TO READ.
+
+o Cross-post an article instead of posting it separately to many
+  newsgroups.  You cross-post by adding group names to the
+  "Newsgroups:" line in the header (if you are using the editor in a
+  newsreader).  Or by typing names when prompted in "Pnews".
+
+  When you cross-post, only one copy is sent around.  And only one
+  copy is kept on each machine.  And as a reader, you only see the
+  cross-posted article once, no matter how many groups it was cross-
+  posted to.
+
+
+  If you're a new reader:
+
+o Read the ASCII groups for a week or two to familiarize yourself
+  with them before posting.
+
+
+  If you're a new user:
+
+o Familiarize yourself with newsgroups, their customs, terminology
+  and abbreviations.  Check out the guidelines, posted in the
+  newsgroups news.announce.newusers and news.newusers.questions.
+
+  One exception to the usual rules is the use of sigs.  Because the
+groups rec.arts.ascii, alt.ascii-art and alt.binaries.pictures.ascii
+are about ASCII art, it is within the scope of these groups to post
+longer sigs.
+
+
+  Be an Art Detective.
+
+  Let's say you're reading another group, say, rec.nonsense, and
+while reading the posts, you see a pic or sig.  You would like an
+easy way to show it to us on rec.arts.ascii, without saving it,
+quiting from rec.nonsense, going to rec.arts.ascii, starting a post,
+inserting the pic or sig, quiting your newsreader, deleting it, etc.
+
+  It's easy to be an Art Detective.  While in the original newsgroup:
+
+o Follow-up the article, making sure it is quoted.
+
+o Replace any newsgroups named in the "Newsgroups:" with "rec.arts.ascii".
+
+o Delete all extraneous materials from the post, leaving the pic or sig.
+
+o Add any commentary you think appropriate.
+
+o Send it.
+
+
+.:*~*:._.:*~*:._.:*~*:.

@@ -1,0 +1,14 @@
+# Title: Chick In Egg
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/birds.html
+
+             _,,_
+           .'    '.
+           | a..a |
+          ,\_ \/ _/,
+         /`' `-.-'-`\
+         |      \-'`|
+         |    .-'|  |
+         ;       /' ;
+          \     <  /
+     jgs   '._ __.'

@@ -1,0 +1,14 @@
+# Title: Computer Disk
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/computer.html
+
+        __________
+     .'`   |     |`'.
+     |     '-----'  |
+     |              |
+     |  .--------.  |
+     |  |--------|  |
+     |  |--------|  |
+     |  |--------|  |
+     |  ;--------;  |
+ jgs |__:________:__|

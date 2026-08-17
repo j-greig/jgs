@@ -1,0 +1,21 @@
+# Title: Santa'S Business Card
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98jan.html
+
+-=[ Santa's business card ]=-  12/97
+
+ _jgs_____________________________________ 
+|    ___ ___ _  _ _____ ___      .-""",   |
+|   / __/ . \ \| |_   _| . \    /____, \  |
+|   \__ \   |  ` | | | |   |   {_____}`{} |
+|   \___/_|_|_|\_| |_| |_|_|  (/ . . \)   |
+|      ___ _    ___ _ _ ___   {`-=^=-`}   |
+|     /  _/ |  | . \ | | __/  {   `   }   |
+|    |  (_  |__|   | | |__ \  {       }   |
+|   _ \___\____|_|_|___/___/   {     }    |
+|  (_)_______                   `-,-`     |
+|  |/| NORTH | aka: "St. Nicholas"        |
+|  |/| POLE  |      "Kris Kringle"        |
+|  |/|"""""""`      "Father Christmas"    |
+|  |/|              "Pere Noel"           |
+|_________________________________________|

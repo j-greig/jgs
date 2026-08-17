@@ -1,0 +1,10 @@
+# Title: Stealth Bomber
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98dec.html
+
+      .-.    _,  .-.  ,_    .-.
+     '-._'--'  \_| |_/  '--'_.-'
+         '-._  \ | | /  _.-'
+             `-.^| |^.-'
+                `\=/`
+                  `

@@ -1,0 +1,12 @@
+# Title: Panic Button
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/00oct.html
+
+       .--_....._-------,
+      / .'       '.    /|
+     / /  P U S H  \  / |
+    /  '._       _.' /  |
+   /      ```````   /  /
+   |----------------| /
+   |                |/
+   '----------------'

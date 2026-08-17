@@ -1,0 +1,15 @@
+# Title: Birthday Cake
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/bday.html
+
+               , , , , ,
+               # # # # #
+              _#_#_#_#_#_
+             {_` ` ` ` `_}
+            _{_._._._._._}_
+           {_  H A P P Y  _}
+          _{_._._._._._._._}_
+         {_ B I R T H D A Y _}
+     .---{_._._._._._._._._._}---.
+    (   `"""""""""""""""""""""`   )
+ jgs `~~~~~~~~~~~~~~~~~~~~~~~~~~~`

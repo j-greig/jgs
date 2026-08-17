@@ -1,0 +1,24 @@
+# Title: More Fish
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/aquatic.html
+
+~ more fish ~
+    (my first ascii drawing was one of these fish!)
+
+         ~^~^~^~^~^~^~^~^~^~^~^^~^~^~^~^~^~
+           ~                            ~
+                \   '    o      '
+                /\ o       \  o
+              >=)'>    '   /\ '
+                \/   \   >=)'>        ~
+                /    /\    \/
+         ~         >=)'>   /     .
+                     \/                   )
+                     /                   (
+                           ~          )   )
+           }     ~              (    (   (
+          {                      )    )   )
+           }  }         .       (    (   (
+          {  {               /^^^^^^^^^^^^jgs
+         ^^^^^^^^^\         /
+                   ^^^^^^^^^

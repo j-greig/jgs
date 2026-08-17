@@ -1,0 +1,28 @@
+# Title: Chicks
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/birds.html
+
+       .---.
+    _ /     ' .---.
+    >|  o    `     `\
+    ` \       .---._ '._ ,
+       '-.;         /`  /'
+          \    '._.'   /
+           '.        .'
+             `";--\_/
+      jgs    _/_   |
+          -'`/  .--;--
+            '    .'
+
+
+                   .---.
+            .---. '     \ _
+          /`     `    o  |<
+     , _.' _.---.       / `
+     `\  `\         ;.-'
+       \   '._.'    /
+        '.        .'
+          \_/--;`
+           |   _\_
+         --;--.  \`--
+   jgs      '.    `

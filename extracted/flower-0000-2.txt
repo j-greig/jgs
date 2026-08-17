@@ -1,0 +1,16 @@
+# Title: Flower
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/97oct.html
+
+               __ .-~-.   .~``~,._
+             .~  `     \ /     .  `\
+             |     \    |   .'     |
+       _      \     `.  |  /    __/
+    .~` `'. .--;.       ,.O  -~`   `\
+    \  '-. |     `-  o.O/o, __       |
+     '-.,__ \    .-~' `\|o `  ~.    /_
+       _.--'/   `    ,  /  \        | `~-.,
+      /     |       /  :    '._    / -.    `\
+jgs  /   .-' '.___.;   `      \`--'\    `    |
+    |          /    \         /     '.__,.--,/
+    '--..,___.'      `~--'--~'

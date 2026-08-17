@@ -1,0 +1,11 @@
+# Title: Flies
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/insects.html
+
+          _,_              __   __
+       ._(@I@)_.          /  \-/  \
+      .--{___}--.       ._\   |   /_.
+      .-/  Y  \-.       .__\__Y__/__.
+       /   |   \           _{___}_
+  jgs  \__/-\__/          ' (@I@) '
+                             ~^~

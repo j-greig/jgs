@@ -1,0 +1,22 @@
+# Title: Scarab
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/insects.html
+
+                  _
+              _,=(_)=,_
+           ,;`         `;,
+          \\    (\^/)    //
+           \\   <( )>   //
+            <`-'`"""`'-`>
+           _/           \_
+         _(_\           /_)_
+        /|` |`----.----`| `|\
+        |/  |     |     |  \|
+       />   |     |     |   <\
+           _;     |     ;_
+         <`_\     |     /_`>
+         |\  `._  |  _.'  /|
+         \|     `"""`    |/
+          |\            /|
+    jgs    \\          //
+           /_>        <_\

@@ -1,0 +1,15 @@
+# Title: Turtle
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/01march.html
+
+    .---.           _....._
+   /  p  `\     .-""`:     :`"-.
+   |__   - |  ,'     .     '    ',
+    ._>    \ /:      :     ;      :,
+     '-.    '\`.     .     :     '  \
+        `.   | .'._.' '._.' '._.'.  |
+          `;-\.   :     :     '   '/,__,
+          .-'`'._ '     .     : _.'.__.'
+         ((((-'/ `";--..:..--;"` \
+             .'   /           \   \
+       jgs  ((((-'           ((((-'

@@ -1,0 +1,25 @@
+# Title: Hypercube/Platonic Solids
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/favorite.html
+
+--=[HYPERCUBE/PLATONIC SOLIDS]=-- by Michael Naylor
+
+(2-dimensional representation of a 3-dimensional cross-section
+of a 4-dimensional cube)
+
+          +___________+      
+         /:\         ,:\     
+        / : \       , : \
+       /  :  \     ,  :  \   
+      /   :   +-----------+  
+     +....:../:...+   :  /|  
+     |\   +./.:...`...+ / |  
+     | \ ,`/  :   :` ,`/  |  
+     |  \ /`. :   : ` /`  |  
+     | , +-----------+  ` |  
+     |,  |   `+...:,.|...`+  
+     +...|...,'...+  |   /   
+      \  |  ,     `  |  /    
+       \ | ,       ` | /     
+        \|,         `|/      mn, 7/97
+         +___________+

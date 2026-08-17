@@ -1,0 +1,25 @@
+# Title: Ravager Logo
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+               /| | -----T----.   
+              /\| | / /| | |\  `)
+             /  | |/ /~| | |~\ <
+            /   |        |      `\
+           (_____________|________)  
+                     
+
+                         |
+                      \     /
+                  -- * * * * * --
+                      \wwWww/
+                       \o*o/  
+                        ^|^  
+               /| |  /---T----.   
+              /\| | / /| | |\  `)
+             /  | |/ /~| | |~\ <
+            /       /  | | |  \ `\
+           (_______/    \|/    \__) 
+
+
+-=[Ravager Logo]=-

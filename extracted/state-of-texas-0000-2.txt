@@ -1,0 +1,16 @@
+# Title: State Of Texas
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/flag.html
+
+-=[ state of Texas ]=-  6/00
+            ___
+           |   |
+           |   '._   _
+           |      ``` '|
+       ____|           \
+      `-.               |
+         \ _           /
+          ` `\       /`
+              \   .'`
+        jgs    \  \ 
+                '-;

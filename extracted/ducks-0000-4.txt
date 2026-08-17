@@ -1,0 +1,23 @@
+# Title: Ducks
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/birds.html
+
+                       .--.
+                     _/aa  \
+                    \__\    |
+                       )   (      ,
+                      /     `-----'\
+                     |       --.   |
+                   .-\      --'    /-.
+              jgs  `'.-_.-_-,_-._-.-'` 
+
+
+
+                    .--.
+                   /  aa\_
+                  |    /__/
+            ,      )   (
+           /'-----'     \
+           |   .--       |
+         .-\    '--      /-.
+  jgs    `'-.-_.-_.-_-._-.'`

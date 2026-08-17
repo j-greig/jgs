@@ -1,0 +1,8 @@
+# Title: Chocolate Bar
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/food.html
+
+         __ __ __ __ __
+       /__/__/__/__/__/|
+      /__/__/__/__/__/|/
+  jgs |__'__'__'__'__|/

@@ -1,0 +1,18 @@
+# Title: Smiley Face Santa
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98dec.html
+
+             .-""""""""""-.
+            /              `\
+           / .--.---.-.-.--.-;.
+          ; { ' . '  .  '  .  '}
+          | {__'_,__.__'__.__'_}
+          |  /    _      _    \
+          | ;    / \    / \    ;
+          | |    |0|    |0|    |
+          \ |    \_/    \_/    |
+        .-'\;  \            /  ;
+       |.  ' \  '.        .'  /
+       \  ` / '.  '-.__.-'  .'
+        '--'    '-._    _.-'
+         jgs        ''''

@@ -1,0 +1,35 @@
+# Title: Fish Symbols
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98may.html
+
+         .+.
+        / | \
+       /--|--\
+       |  |  |
+       |  |  |
+        \ | /
+         \|/
+   jgs   /^\
+        /   \
+
+
+
+               _....._
+       '.  .-'`     | `. 
+         ><---------|---)
+       .'  `-.,_    |_,' 
+  jgs           `````
+
+
+           _....._
+         .' |     `'-.  /
+        (---|---------><
+         '._|    _,.-'  \
+  jgs       `````
+
+
+           _....._
+         .'       `'-.  /
+        (- J-E-S-U-S -><
+         '._     _,.-'  \
+  jgs       `````

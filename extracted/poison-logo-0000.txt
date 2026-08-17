@@ -1,0 +1,10 @@
+# Title: Poison Logo
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+-=[ Poison Logo ]=-
+
+        .-.      __   __     __   __   _          .-.
+       (0.0)    (  \ (  \ \ (    (  \ ( \ \      (0.0)
+     '=.|m|.='   \__) \  \ \ \___ \  \ \ \ \   '=.|m|.='
+     .='`"`'=.    \    \__) \  __) \__) \ \_)  .='`"`'=.

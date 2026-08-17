@@ -1,0 +1,15 @@
+# Title: Peace Signs
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+-=[ Peace signs ]=-  8/97
+             _____
+          .-'  |  '-.
+        .'     |     '.
+       /       |       \
+10    ;        |        ;
+      |        |        |
+      ;       /|\       ;
+       \    /` | `\    /
+        './`   |   `\.'
+          '-.__|__.-'

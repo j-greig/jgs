@@ -1,0 +1,87 @@
+# Title: /.Signature
+
+&Nbsp; Remotesignature =
+# Artist: jgs (Joan G. Stark)
+# Date: unknown
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/bafaq.html
+
+  24  How do I have my sig automatically added to my posts and email?
+
+  On a Unix system, the process is usually as easy as:
+
+  For posts:
+
+  If you are using most newsreaders:
+
+o Name the file you want to be used as ".signature"
+
+o Put it in the top level of your home folder.
+
+  Your news software should pick it up.  Note: some systems are set
+  up to allow only four lines in a posted sig.
+
+  If you are using tin:
+
+o Make a folder in the top level of your home folder called ".Sig".
+
+o Fill it with sigs.
+
+  The files in that folder will be used randomly by tin when
+  selecting a sig for your post.  You can call the folder something
+  other than ".Sig", but you must change the 'signature path' line
+  in your tinrc in your .tin folder.
+
+  To have a file included above your random sig:
+
+o Make a file in the top level of your home folder called ".sigfixed".
+
+
+  For email:
+
+o Name the file you want to be used as ".signature"
+
+o Put it in the top level of your home folder.
+
+  If you have done this for the above use in news posts, you need
+to, in additon, do one of the following:
+
+
+  If you're using Elm for your email, and elm doesn't pick up your sig:
+
+o You need to put the following in ypur elmrc:
+
+  localsignature = ~/.signature
+  remotesignature = ~/.signature
+
+  If you don't have an elmrc yet:
+
+o Open Elm
+
+o Press the 'o' key to get to the options screen.
+
+o Press the '>' to save your configuration.
+
+o Press 'i' to go back to the index.
+
+o Quit.
+
+  This will create the elmrc file in the .elm folder.
+
+
+  If you're using Pine (with Pico) for your email:
+
+o Place the following in your .pinerc file:
+
+  signature-file=~/.signature
+
+
+  If you're using vm (in emacs) for your email:
+
+o Place the following in your .emacs file:
+
+  (setq mail-signature t)
+
+
+  Note about sig usage: Try to use short sigs for posts to
+newsgroups.  If you have any long sigs, try to only use them for
+email and posts to the ASCII art groups.

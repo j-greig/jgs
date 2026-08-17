@@ -1,0 +1,21 @@
+# Title: America Offline Logo
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+-=[ America Offline Logo ]=-  3/97
+
+
+                 /\
+                //\\
+               //  \\
+              //    \\
+             //      \\
+            //  ,-''-.\\
+           //  /'``'. \\\
+          //.-':'    | |\\
+         /// /`     / /  \\
+        //| |     ,:-'    \\
+       //  \ '.__,-/       \\
+jgs   //    `-...-'         \\
+     //___AMERICA__OFFLINE___\\
+    '--------------------------`

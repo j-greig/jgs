@@ -1,0 +1,17 @@
+# Title: Vampire
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/haloween.html
+
+          _..._
+        .'     '.
+       ; __   __ ;
+       |/  \ /  \|
+     |\| -- ' -- |/|
+     |(| \o| |o/ |)|
+     _\|     >   |/_
+  .-'  | ,.___., |  '-.
+  \    ;  V'-'V  ;    /
+   `\   \       /   /`
+     `\  '-...-'  /`
+       `\  / \  /`
+  jgs    `\\_//`

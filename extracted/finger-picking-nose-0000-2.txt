@@ -1,0 +1,21 @@
+# Title: Finger Picking Nose
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/bodypart.html
+
+          |     |
+          |     |
+         /       \
+        ( __   __ )
+         '--'-;  ;
+              |  |
+        _     |  |
+   __ /` ``""-;_ |
+   \ '.;------. `\
+    | |    __..  |
+    | \.-''   _  |
+    | |  ,-'-,   |
+    |  \__.-'    |
+     \    '.    /
+      \     \  /
+       '.      |
+    jgs  )     |

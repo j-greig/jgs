@@ -1,0 +1,14 @@
+# Title: Superman Logo
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/logo.html
+
+-=[ Superman Logo ]=-  1/97     
+        ________________
+       /.,------------,.\
+      ///  .=^^^^^^^\__|\\
+      \\\   `------.   .//
+       `\\`--...._  `;//'
+         `\\.-,___;.//'
+           `\\-..-//'
+      jgs    `\\//'
+               ""

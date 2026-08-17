@@ -1,0 +1,19 @@
+# Title: Computer Mouse
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/99april.html
+
+       ,d88b
+    ,8P'    `8,
+    8'       _.8._
+   8       .'  |  '.
+          /    |    \
+         |    [_]    |
+         |     |     |
+         |-----'-----|
+         |           |
+         |           |
+         |;         .|
+         ;\         /;
+          \\       //
+      jgs  \'._ _.'/
+            '-...-'

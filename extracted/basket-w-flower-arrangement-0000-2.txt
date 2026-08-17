@@ -1,0 +1,16 @@
+# Title: Basket W/Flower Arrangement
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/flowers.html
+
+               _,==,==,_
+              /\/=`==`\/)
+           /\|=\o\,-.,'|\,-;
+         |-; /\/'8._.'/\8o |.-;
+       .-\  \|=\8o_,o8o.; / .'-.
+      `-._`o8/\/.'_/-.8/`|o.--.-`
+      .-`8'.o|=\8o'.__\-.8'-.-'`
+      `-._.-"\/"o/ \8_'-.|\_/`.
+          (_.__=,\.' _ =  __) 
+          (__._.__,` - __,_.)
+           \_    =-__      /
+      jgs   `-. ________.-'

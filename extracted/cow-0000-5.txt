@@ -1,0 +1,22 @@
+# Title: Cow
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/farm.html
+
+                (.`"-.
+                c\_`.'
+        .--.---'`  \
+       /|   \   /  |
+      ' \   / _.| /
+         >/`ww  \((
+         )\)\    )\\
+     jgs `"`"`   `"`
+
+           
+                (.`"-.
+                c\_`.'
+        .--.---'`  \
+       /|   \   /  |
+      ` \   / _.| /
+         >/`ww  \((
+         )\)\    )\\
+     jgs `"`"`   `"`

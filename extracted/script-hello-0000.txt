@@ -1,0 +1,10 @@
+# Title: Script Hello
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/97oct.html
+
+        __     __
+       (_ \   /  \
+          |   |          .-.  .-.
+        (_|___|__   __   |  ) |  )  __,__)
+       _  |   |  \ /__)  | /  | /  /  \
+jgs    \_/     \_/ \_____\/___\/__/\__/

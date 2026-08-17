@@ -1,0 +1,13 @@
+# Title: Snake
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98sepoct.html
+
+tweaked by:ccx165@coventry.ac.uk (Phil)
+
+             .-. 
+            ((`-'
+             \\ 
+              \\
+       .="""=._))
+      ;  '=.`"'"
+       '=="     after/jgs

@@ -1,0 +1,33 @@
+# Title: Linux Penguin
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/computer.html
+
+-=[ Linux penguin ]=-  2/98
+
+           _..._
+         .'     '.
+        /  _   _  \
+        | (o)_(o) |
+         \(     ) /
+         //'._.'\ \
+        //   .   \ \
+       ||   .     \ \
+       |\   :     / |
+       \ `) '   (`  /_
+     _)``".____,.'"` (_
+jgs  )     )'--'(     (
+      '---`      `---`
+              ___
+           ,-'   '-.
+          /  _   _  \
+          | (o)_(o) |
+          \ .-""-.  /
+          //`._.-'`\\
+         //   :    ; \
+        //. - '' -.|  |
+       /:    :     |  |
+      | |   :     ,/  /,
+jgs  _;'`-, '     |`.-' `\
+    )     `\.___./;     .'
+    '.__    )----'\__.-'
+        `""`

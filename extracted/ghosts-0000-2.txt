@@ -1,0 +1,40 @@
+# Title: Ghosts
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/haloween.html
+
+         ___
+       _/ ..\
+      ( \  0/__
+       \    \__)
+       /     \
+ jgs  /      _\
+     `"""""``
+         ___
+       _/ oo\
+      ( \  -/__
+       \    \__)
+       /     \
+ jgs  /      _\
+     `"""""``   
+         ___
+       _/ @@\
+      ( \  O/__
+       \    \__)
+       /     \
+ jgs  /      _\
+
+     `"""""``
+         ___
+       _/ 66\
+      ( \  ^/__
+       \    \__)
+       /     \
+ jgs  /      _\
+     `"""""``
+         ___
+       _/  "\
+      ( \  ~/__
+       \    \__)
+       /     \
+ jgs  /      _\
+     `"""""``

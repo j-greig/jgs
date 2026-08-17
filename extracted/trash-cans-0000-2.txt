@@ -1,0 +1,15 @@
+# Title: Trash Cans
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/cloth.html
+
+                     ____.-.____
+                    [___________]
+      ____.-.____  (d|||||||||||b)
+     [___________]  `|||TRASH|||`
+    (d|||||||||||b)  |||||||||||
+     `|||TRASH|||`   |||||||||||
+      |||||||||||    |||||||||||
+      |||||||||||    |||||||||||
+      |||||||||||    `"""""""""
+      |||||||||||
+ jgs  `"""""""""`

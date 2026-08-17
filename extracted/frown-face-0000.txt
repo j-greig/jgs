@@ -1,0 +1,15 @@
+# Title: Frown Face
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/bodypart.html
+
+            _,,,,,,,_
+          ,88888888888,
+        ,888'       `888,
+        888' 0     0 `888
+       888      0      888
+       888             888
+       888    ,000,    888
+        888, 0     0 ,888
+        '888,       ,888'
+          '8JGS8888888'
+            ````````

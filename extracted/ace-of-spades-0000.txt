@@ -1,0 +1,14 @@
+# Title: Ace Of Spades
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/99feb.html
+
+-=[ Ace of spades ]=-  1/99
+             ,
+            / \
+          /` _ `\
+        /`  /\\  `\
+       |   /__\\   |
+       \  /    \\  /
+        '.__, ,__.'
+    jgs   _.-^-._
+         `"""""""`

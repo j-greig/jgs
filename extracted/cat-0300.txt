@@ -1,0 +1,23 @@
+# Title: Cat
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/00august.html
+
+.--.
+'-. \            |\\_
+   \ \           /  a'.
+    \ \__..---../  ,__/
+     \             |
+     |            /
+     /\ \-"""-'\ \ \
+    / / /_      \ \ \_
+ jgs\_\___)      \__)_)
+
+.--.
+'-. \            |\\_
+   \ \           /  a'.
+    \ \__..---../  ,__/
+     \             |
+     |            /
+     /\ \-"""-'\ \ \
+    /_/_/_      \_\_\_
+ jgs\_\___)      \__)_)

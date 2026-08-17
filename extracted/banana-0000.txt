@@ -1,0 +1,13 @@
+# Title: Banana
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/97oct.html
+
+         .-.
+        /  |
+       |  /
+    .'\|.-; _
+   /.-.;\  |\|
+   '   |'._/ `
+       |  \
+        \  |
+ jgs     '-'

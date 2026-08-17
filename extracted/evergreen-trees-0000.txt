@@ -1,0 +1,33 @@
+# Title: Evergreen Trees
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98jan.html
+
+        |
+       \|/
+      \\|//
+     \\\Y///
+     \\\|///
+    \\\\Y////
+    \\\\|////
+     `\\Y//`
+       `#`
+      __#__
+     [_   _]
+ jgs  \___/
+
+
+          .
+        '. .'
+       -= * =-
+        .'|'.
+         \|/
+        \o|*/
+       \\\Y///
+       \\\|@//
+      \\0\Y////
+      \*\\|/O//
+       `\\Y*/`
+         `#`
+        __#__
+       [_   _]
+   jgs  \___/

@@ -1,0 +1,18 @@
+# Title: Nandyavarta
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98june.html
+
+(A Hindu labryinth design...)
+
+      \___________________
+   |\   _________________/
+   | | |   ___    ______   /
+   | | |  [_  |  |  _   | |
+   | | |____| |  |_| |  | |
+   | |   _____|______|  | |
+   | |  |  _  |  _____  | |
+   | |  |_| | | [__   | | |
+   | |______| |____]  | | |
+   /  ________________| | |
+  /  /_________________  \|
+                       \

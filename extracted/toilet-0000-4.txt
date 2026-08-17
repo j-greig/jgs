@@ -1,0 +1,11 @@
+# Title: Toilet
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/cloth.html
+
+        _______
+       | .---.^|  ___
+       |(     )| (__()
+       '-:---:-'  )--)
+        ((___))  (--(
+         )---(
+   jgs  /_____\

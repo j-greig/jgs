@@ -1,0 +1,16 @@
+# Title: Duck
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/birds.html
+
+                __
+              /`66\_
+              |  (__)
+              |  |
+             /   \  ,
+        /\__/     \/ \
+       | .--'      \  |
+        \\         |-'
+         \`-._,   /
+          `/'---'\
+         __\     /__
+  jgs    \_/     \_/

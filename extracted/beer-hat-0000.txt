@@ -1,0 +1,14 @@
+# Title: Beer Hat
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/99may.html
+
+        .--.               .--.
+       /   _\_  .-";"-.  _/_   \
+       | _|___|/  . .  \|___|_ |
+       |((|---|._.   ._.|---|))|
+       | `|   |  `"""`  |   |` |
+        \ `"""#;._____.;#"""` /
+         '.   (# o   o #)   .'
+           '-._\   ^   /_.-'
+              __'._~_.'__ 
+       jgs   /   \   /   \

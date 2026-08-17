@@ -1,0 +1,13 @@
+# Title: Surprised Cat
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/haloween.html
+
+      ,-~-,       ,-~~~~-,    /\  /\
+(\   / ,-, \    ,'        ', /  ~~  \
+ \'-' /   \ \  /     _      #  <0 0> \
+  '--'     \ \/    .' '.    # =  Y  =/
+            \     / \   \   `#-..!.-'
+             \   \   \   `\ \\
+              )  />  /     \ \\
+             / /`/ /`__     \ \\__
+      jgs   (____)))_)))     \__)))

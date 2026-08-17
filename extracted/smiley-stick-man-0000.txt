@@ -1,0 +1,26 @@
+# Title: Smiley Stick Man
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/98august.html
+
+                       ,
+          .---.      _//
+         //\_/\\     \_\
+        |/ 0_0 \|    /
+        | ,___, |   /
+         \\___//   /
+          `"|"`  .'
+        .--'/'--'
+       /   |
+      |    |
+      |    |
+    .-'\   |
+    `"""`  \
+       ,---.\
+       \     \
+        \     \
+         \     \
+        .-\     \
+       /_.'      |
+                 /\
+            jgs  \ \
+                  `"

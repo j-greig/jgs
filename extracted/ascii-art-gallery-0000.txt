@@ -1,0 +1,16 @@
+# Title: Ascii Art Gallery
+# Artist: jgs (Joan G. Stark)
+# Source: https://github.com/oldcompcz/jgs/blob/master/joan_stark/97augsep.html
+
+--
+                    ___    ___
+               ,_;-'-._\__/_.-'
+             ,_\       a\/a
+           ,_\      ,-(  _'-._     IS THERE A BUG IN YOUR SYSTEM?
+         ,_\       (==/\ |'-._\
+       ,_\   -.  /\ \/ | |\   `
+     ,_\       \/==\ '._\7 '._    joan stark  <spunk1111@juno.com>
+ jgs '.  '._    \=/\'-}}} '-}}}
+      /    />   /`  )                   ~~ASCII ART GALLERY~~
+ |\_.'   .'(   <_  <_           <http://www.geocities.com/SoHo/7373/>
+ \____.-'   '--}}}-}}}
