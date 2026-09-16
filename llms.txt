@@ -1,0 +1,44 @@
+# Joan Stark's ASCII Art Gallery (jgs) — agent index
+
+Legendary ASCII artist Joan G. Stark, active 1996–2001. ~2700 individual pieces extracted from her web archive, plus search tooling for agents.
+
+## Quick start
+
+```bash
+uv run scripts/find.py elephant                          # keyword search
+uv run scripts/find.py --category birds --size tiny      # filter
+uv run scripts/find.py --max-width 30 --max-height 6     # size cap
+uv run scripts/find.py --random --category animals       # random
+uv run scripts/find.py --stats                           # index summary
+```
+
+Output formats: `--format preview|paths|names|json`. Default = preview.
+
+## Files
+
+- `extracted/*.txt` — 2700 ASCII pieces, header + body
+- `INDEX.json` — searchable metadata (title, category, size, charset, date, tags, preview)
+- `scripts/find.py` — agent CLI search
+- `scripts/build_index.py` — regenerate INDEX.json (idempotent)
+- `joan_stark/` — original HTML/GIF archive (untouched)
+- `README.md` — full docs
+
+## Categories present (top)
+
+seasonal · uncategorised · food · birds · nature · animals · holidays · cartoons · tech · logos · people
+
+## Size classes
+
+tiny (≤6 lines, ≤30 wide) · small · medium · large · xl
+
+## Charset classes
+
+ascii-7bit (2688) · unicode-other (12)
+
+## Attribution
+
+Always credit: `ASCII art by jgs (Joan G. Stark) — https://github.com/oldcompcz/jgs`
+
+## Fork
+
+This is the j-greig fork at https://github.com/j-greig/jgs with extracted text + search tooling. Upstream: https://github.com/oldcompcz/jgs
